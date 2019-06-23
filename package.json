@@ -4,7 +4,8 @@
   "description": "Kodilla task 24.4 - Tests: format date",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -b index.test.js",
+    "test:watch": "onchange \"./*.js\" -- npm test"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/arti-zachara/24.1-format-date#readme",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^6.1.4",
+    "onchange": "^6.0.0"
   }
 }
