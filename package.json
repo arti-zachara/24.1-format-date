@@ -1,0 +1,24 @@
+{
+  "name": "24.1-format-date",
+  "version": "1.0.0",
+  "description": "Kodilla task 24.4 - Tests: format date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/24.1-format-date.git"
+  },
+  "keywords": [
+    "tests",
+    "format",
+    "date"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/24.1-format-date/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/24.1-format-date#readme"
+}
