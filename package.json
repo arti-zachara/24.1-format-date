@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arti-zachara/24.1-format-date/issues"
   },
-  "homepage": "https://github.com/arti-zachara/24.1-format-date#readme"
+  "homepage": "https://github.com/arti-zachara/24.1-format-date#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
